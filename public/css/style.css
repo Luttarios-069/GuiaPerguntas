@@ -1,0 +1,16 @@
+:root {
+    --bgColor: #eceff1;
+}
+
+nav > a {
+    margin-left: 15px;
+}
+
+body {
+    background-color: var(--bgColor);
+}
+
+.card {
+    padding: 20px;
+    margin-top: 5vh; 
+}
